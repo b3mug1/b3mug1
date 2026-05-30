@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;FastAPI+%7C+PostgreSQL+%7C+Kafka;Clean+Architecture+Enjoyer;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;FastAPI+%7C+PostgreSQL+%7C+RabbitMQ;Clean+Architecture+Enjoyer;Always+learning+new+technologies" />
 
 </div>
 
@@ -38,7 +38,7 @@
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -74,7 +74,7 @@ class Bekzat:
     stack = {
         "backend": ["FastAPI", "Node.js"],
         "databases": ["PostgreSQL", "Redis"],
-        "messaging": ["Kafka"],
+        "messaging": ["RabbitMQ"],
         "devops": ["Docker", "GitHub Actions"],
     }
 
