@@ -6,7 +6,7 @@
 
 [![Location](https://img.shields.io/badge/Astana,_Kazakhstan-0A66C2?style=flat-square)](https://en.wikipedia.org/wiki/Astana)
 [![University](https://img.shields.io/badge/Astana_IT_University-111827?style=flat-square)](https://astanait.edu.kz/)
-[![GitHub](https://img.shields.io/badge/GitHub-bekgm-181717?style=flat-square&logo=github)](https://github.com/bekgm)
+[![GitHub](https://img.shields.io/badge/GitHub-b3mug1-181717?style=flat-square&logo=github)](https://github.com/b3mug1)
 
 ---
 
