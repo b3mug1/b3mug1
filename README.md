@@ -1,101 +1,120 @@
+# <div align="center">BEKZAT</div>
+
 <div align="center">
 
-# Bekzat
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=BEKZAT&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Backend%20Developer%20%7C%20System%20Builder&descAlignY=59&animation=fadeIn" width="100%" />
 
-### Backend Developer · Python Enthusiast · System Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+systems;Python+%7C+Go+%7C+JavaScript;Building+APIs+and+scalable+backends;Learning.+Building.+Improving." alt="Typing SVG" />
 
-[![Location](https://img.shields.io/badge/Astana,_Kazakhstan-0A66C2?style=flat-square)](https://en.wikipedia.org/wiki/Astana)
-[![University](https://img.shields.io/badge/Astana_IT_University-111827?style=flat-square)](https://astanait.edu.kz/)
-[![GitHub](https://img.shields.io/badge/GitHub-b3mug1-181717?style=flat-square&logo=github)](https://github.com/b3mug1)
+<br/>
 
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;FastAPI+%7C+Node.js+%7C+PostgreSQL;RabbitMQ+%7C+MongoDB+%7C+Redis;Clean+Architecture+Enjoyer;Always+learning+new+technologies" />
+<a href="https://github.com/b3mug1"><img src="https://img.shields.io/badge/GitHub-b3mug1-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://astanait.edu.kz/"><img src="https://img.shields.io/badge/Astana_IT_University-0D1117?style=for-the-badge&logo=google-scholar&logoColor=38BDF8" /></a>
+<img src="https://img.shields.io/badge/Location-Astana,_Kazakhstan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
 
 </div>
 
 ---
 
-# Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Testing
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-</div>
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=b3mug1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=b3mug1&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
----
-
-# About Me
+## 01 / ABOUT ME
 
 ```python
 class Bekzat:
-    role = "Backend Developer"
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.location = "Astana, Kazakhstan"
+        self.education = "Astana IT University"
+        self.languages = ["Python", "Go", "JavaScript"]
+        self.interests = [
+            "Backend Engineering",
+            "Distributed Systems",
+            "System Architecture",
+            "Automation",
+        ]
 
-    stack = {
-        "backend": ["FastAPI", "Node.js"],
-        "languages": ["Python", "JavaScript", "Go"],
-        "databases": ["PostgreSQL", "MongoDB", "Redis"],
-        "messaging": ["RabbitMQ"],
-        "devops": ["Docker", "GitHub Actions"],
-    }
-
-    current_focus = [
-        "Scalable backend systems",
-        "Distributed architectures",
-        "Microservices",
-        "System design",
-    ]
+    def motto(self):
+        return "Build. Break. Learn. Repeat."
 ```
+
+## 02 / TECH ARSENAL
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,go,js,solidity&theme=dark" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+**Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&theme=dark" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,postman,vscode&theme=dark" />
+
+**Testing**
+
+<img src="https://img.shields.io/badge/Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=38BDF8" />
+
+</div>
+
+---
+
+## 03 / FEATURED PROJECT
+
+<div align="center">
+
+<a href="https://github.com/b3mug1/cyberoom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b3mug1&repo=cyberoom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Cyberoom repository" />
+</a>
+
+</div>
+
+> More projects are on the way. Always building, always improving.
+
+---
+
+## 04 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=b3mug1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3mug1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" />
+
+<img width="65%" src="https://streak-stats.demolab.com?user=b3mug1&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+## 05 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=b3mug1&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bekgm&style=flat-square&color=58a6ff" />
+<img src="https://komarev.com/ghpvc/?username=b3mug1&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge" />
 
-### Thanks for visiting
+<br/><br/>
 
-*"Crafting clean, scalable backend systems — one endpoint at a time."*
+**BUILD SOMETHING THAT MATTERS.**
+
+<sub>Made with curiosity, coffee and a lot of debugging.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0f172a,100:2563eb" width="100%" />
 
 </div>
