@@ -68,21 +68,8 @@ class Bekzat:
 
 ---
 
-## 03 / FEATURED PROJECT
 
-<div align="center">
-
-<a href="https://github.com/b3mug1/cyberoom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b3mug1&repo=cyberoom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Cyberoom repository" />
-</a>
-
-</div>
-
-> More projects are on the way. Always building, always improving.
-
----
-
-## 04 / GITHUB ANALYTICS
+## 05 / GITHUB ANALYTICS
 
 <div align="center">
 
@@ -95,7 +82,7 @@ class Bekzat:
 
 ---
 
-## 05 / CONTRIBUTION ACTIVITY
+## 06 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
